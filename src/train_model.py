@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from xgboost import XGBClassifier
 import joblib
 
-data = pd.read_excel("data/Dataset.xlsx")
+data = pd.read_excel("data/Dataset.xlsx") 
 
 data = data.dropna(subset=["Diagnosis_group"])
 
