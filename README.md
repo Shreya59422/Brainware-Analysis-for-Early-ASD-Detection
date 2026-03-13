@@ -213,7 +213,7 @@ Main libraries used:
 The demonstration video for this project is available in:
 
 ```
-demo_video_link.txt
+https://drive.google.com/file/d/1D2fPiOHiCzDpjjGcudN82igrYr4-T8X5/view?usp=sharing
 ```
 
 ---
